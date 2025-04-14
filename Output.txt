@@ -1,0 +1,94 @@
+1. Caesar Cipher:
+	Enter the string for encryption:
+	cryptographyconcepts
+	Encrypted: fubswrjudskbfrqfhswv
+	Decrypted: cryptographyconcepts
+
+2. Atbash Cipher:
+	Enter the string for encryption/decryption:
+	cryptographyconcepts
+	Encrypted: xibkgltizksbxlmxvkgh
+	Decrypted: cryptographyconcepts
+
+3. August Cipher:
+	Enter the string for encryption:
+	cryptographyconcepts
+	Encrypted: dszquphsbqizdpodfqut
+	Decrypted: cryptographyconcepts
+
+4. Affine Cipher:
+	Enter the multiplier A (must be coprime with 26): 5
+	Enter the additive shift B: 8
+	Enter the plaintext message: cryptographyconcepts
+
+	Encrypted Message: spyfzampifrysavscfzu
+	Decrypted Message: cryptographyconcepts
+
+5. Vigenère Cipher:
+	Enter the key: vigenere
+	Enter the message: cryptographyconcepts
+
+	Encrypted Message: xzetgsxvvxncpsegzxzw
+	Decrypted Message: cryptographyconcepts
+
+6. Gronsfeld Cipher:
+	Enter the numerical key (digits only 0-9): 31415
+	Enter the message: cryptographyconcepts
+
+	Encrypted Message: fscqyrhvbukzgpsfftux
+	Decrypted Message: cryptographyconcepts
+
+7. Beaufort Cipher:
+	Enter the key: beaufort
+	Enter the message: cryptographyconcepts
+
+	Encrypted Message: zncfmalcbptwdaerxphc
+	Decrypted Message: cryptographyconcepts
+
+8. Autoclave Cipher:
+	Enter the initial key: autoclave
+	Enter the message: cryptographyconcepts
+
+	Encrypted Message: clrdvzgmerywrhbivpiz
+	Decrypted Message: cryptographyconcepts
+
+9. Hill Cipher:
+	Enter the message to encrypt: cryptographyconcepts
+
+	Original : CRYPTOGRAPHYCONCEPTS
+	Encrypted: CSNOPBCMTWBZXQFTGVXLR
+	Decrypted: CRYPTOGRAPHYCONCEPTSX
+
+10. Rail Fence Cipher:
+	Enter the text: cryptographyconcepts
+	Enter the key value: 3
+	Encrypted text: ctacerporpyocpsyghnt
+	Decrypted text: cryptographyconcepts
+
+11. Route Cipher:
+	Enter the plaintext (no spaces): cryptographyconcepts
+	Enter number of rows: 4
+	Enter number of columns: 6
+	Encrypted Text: CGCTRROSYANXPPCXTHEXOYPX
+	Decrypted Text: CRYPTOGRAPHYCONCEPTSXXXX
+
+12. Myszkowski Cipher:
+	Enter key: Myszkowski    
+	Enter text to encode: cryptographyconcepts
+	Encrypted Text: chpstnatocycrpgerypo
+	Decrypted Text: cryptographyconcepts
+
+13. N-Gram Operations:
+	Enter the text:
+	Cryptography Concepts CIA Assignment Sanjeeth Manikandan
+	Enter the size of the N-gram (e.g., 1 for unigrams, 2 for bigrams, etc.):
+	2
+
+	Generating N-grams...
+
+	Generated N-grams:
+	Cryptography Concepts
+	Concepts CIA
+	CIA Assignment
+	Assignment Sanjeeth
+	Sanjeeth Manikandan

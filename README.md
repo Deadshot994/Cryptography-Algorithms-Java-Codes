@@ -3,7 +3,7 @@
 This project contains 13 cryptography algorithms implemented in Java. The algorithms demonstrate various classical encryption and decryption methods, along with N-gram operations for text processing. This repository provides the full source code for each algorithm.
 
 ## Project Structure
-
+```
 Crypto Codes 
 ├── src # Source code 
 | └── cryptography # Cryptography algorithm implementations 
@@ -22,7 +22,7 @@ Crypto Codes
 |     └── Vignere.java
 ├── Output.txt 
 └── Readme.md # Project description
-
+```
 
 ## Algorithms
 
